@@ -5,7 +5,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.linkedin.com/in/júlia-campos-b11705207)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/júlia-campos-b11705207)
 
-ao clicar nos ícones acima será encaminhado ao meu linkedin. 😉 (na vdd todos os ícones te encaminharão para lá rs)
+ao clicar nos ícones acima será encaminhado ao meu linkedin. 😉 (na verdade todos os ícones te encaminharão para lá rs)
 
 ### Alguns dos Meus Conhecimentos (Skills)
 
