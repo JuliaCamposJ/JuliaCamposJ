@@ -33,6 +33,6 @@ ao clicar nos ícones acima será encaminhado ao meu linkedin. 😉 (na verdade 
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white
 )](https://www.linkedin.com/in/júlia-campos-b11705207)
 
-Não são apenas esses, vale informar que possuo certificação em analise e desenvolvimento de software e que possuo uma ótima compreensão de inglês, rumo a fluência, nivel atual B1
+No linkedin você poderá visualizar mais algumas das certificações. Vale informar que possuo certificação em 'analise e desenvolvimento de sistemas' e que possuo uma ótima compreensão de inglês, rumo a fluência, nivel atual: B1
 
 ![JuliaCamposJ GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaCamposJ&show_icons=true&theme=tokyonight)
