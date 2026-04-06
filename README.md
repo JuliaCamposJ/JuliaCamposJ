@@ -1,11 +1,7 @@
 ### Olá! Sou a Júlia Campos, analista de qualidade. ❤️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/júlia-campos-b11705207)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/júlia-campos-b11705207)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.linkedin.com/in/júlia-campos-b11705207)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/júlia-campos-b11705207)
-
-ao clicar nos ícones acima será encaminhado ao meu linkedin. 😉 (na verdade todos os ícones te encaminharão para lá rs)
+ao clicar nos ícones acima será encaminhado ao meu linkedin. 😉
 
 ### Alguns dos Meus Conhecimentos (Skills)
 
