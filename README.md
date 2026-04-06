@@ -37,14 +37,6 @@ Atualmente atuando como **QA pleno** com foco em sistemas críticos e confiabili
 * **Cursos Complementares:** Diversas certificações via Coursera e Udemy voltadas a QA e Engenharia de Software.
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-![JuliaCamposJ GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaCamposJ&show_icons=true&theme=tokyonight&show_icons=true&count_private=true)
-
----
-
-## 📫 Vamos nos conectar?
-
+### 📫 Vamos nos conectar?
 [![Gmail Badge](https://img.shields.io/badge/📧_E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julia.camposoficio@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/júlia-campos-b11705207)
