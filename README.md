@@ -1,6 +1,7 @@
 ### Olá! Sou a Júlia Campos, analista de qualidade. ❤️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/júlia-campos-b11705207)
+
 ao clicar nos ícones acima será encaminhado ao meu linkedin. 😉
 
 ### Alguns dos Meus Conhecimentos (Skills)
