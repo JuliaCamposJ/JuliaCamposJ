@@ -1,4 +1,4 @@
-![Banner Animado de QA](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Júlia%20Campos%20|%20QA%20Senior&fontSize=40&animation=fadeIn&fontAlignY=35)
+![Banner Animado de QA](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Júlia%20Campos%20|%20QA%20Pleno&fontSize=40&animation=fadeIn&fontAlignY=35)
 ### Senior Quality Assurance Analyst | Software Automation | Fintech Specialist
 
 Atualmente atuando como **QA Senior** com foco em sistemas críticos e confiabilidade de software. Tenho vasta experiência em estratégias de teste para ambientes de **Fintech**, especificamente no setor de **tokenização de cartões**. Sou entusiasta de automação "shift-left" e apaixonada por garantir que a qualidade comece desde o primeiro commit.
@@ -44,9 +44,7 @@ Atualmente atuando como **QA Senior** com foco em sistemas críticos e confiabil
 
 ---
 
-### 📫 Vamos nos conectar?
-
-## 📫 Vamos trocar uma ideia?
+## 📫 Vamos nos conectar?
 
 [![Gmail Badge](https://img.shields.io/badge/📧_E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julia.camposoficio@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/júlia-campos-b11705207)
