@@ -38,11 +38,9 @@ Atualmente atuando como **QA pleno** com foco em sistemas críticos e confiabili
 ---
 ### 🕹️ Projeto em Destaque: QA Hangman Game
 
-Para demonstrar lógica de programação em **Python** e pensamento analítico de QA, desenvolvi um Jogo da Forca com temática de tecnologia.
+Para demonstrar lógica de programação e facilidade de acesso (UX), desenvolvi este mini-jogo que roda diretamente no seu navegador. É um ótimo exemplo de como transformo lógica em uma interface funcional.
 
-[![Jogar no Replit](https://img.shields.io/badge/Jogar_no-Replit-orange?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/join/qppytewaql-juliacamposj)
-
-> **Como testar:** Clique no botão acima, e no ambiente do Replit, digite `python main.py` no console (ou clique em Run) para iniciar a partida!
+[![Jogar Agora](https://img.shields.io/badge/Jogar_no_Navegador-Acesse_Aqui-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://juliacamposj.github.io/mini-games/)
 
 ---
 ### 📫 Vamos nos conectar?
