@@ -35,6 +35,14 @@ Atualmente atuando como **QA pleno** com foco em sistemas críticos e confiabili
 * **Graduação:** Análise e Desenvolvimento de Sistemas.
 * **Idiomas:** Inglês (Nível B1 - Independente), focado em atuação internacional.
 * **Cursos Complementares:** Diversas certificações via Coursera e Udemy voltadas a QA e Engenharia de Software.
+---
+### 🕹️ Projeto em Destaque: QA Hangman Game
+
+Para demonstrar lógica de programação em **Python** e pensamento analítico de QA, desenvolvi um Jogo da Forca com temática de tecnologia.
+
+[![Jogar no Replit](https://img.shields.io/badge/Jogar_no-Replit-orange?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/join/qppytewaql-juliacamposj)
+
+> **Como testar:** Clique no botão acima, e no ambiente do Replit, digite `python main.py` no console (ou clique em Run) para iniciar a partida!
 
 ---
 ### 📫 Vamos nos conectar?
